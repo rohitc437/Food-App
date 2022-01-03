@@ -1,0 +1,16 @@
+.foodList>img{
+    width:100px;
+    height:100px;
+}
+
+h5{
+    color:blue;
+}
+.foodList{
+    width:300px;
+    /* border-top: 2px solid red; */
+    margin-left: 40%;
+    /* border: 2px solid blue; */
+    height:300px
+}
+
